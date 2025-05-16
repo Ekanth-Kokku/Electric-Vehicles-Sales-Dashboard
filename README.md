@@ -10,7 +10,7 @@ This project is an interactive Power BI dashboard that analyzes Electric Vehicle
 - **Model-Level Details**: Insights into popular EV models and their performance.
 - **Interactive Filters**: Allows users to slice data by year, region, brand, and model.
 
-## 🧰 Tools Used
+## Tools Used
 
 - **Power BI**: For data visualization and interactive dashboards
 - **DAX**: For calculated measures and KPIs
