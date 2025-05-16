@@ -1,4 +1,4 @@
-# 🚗 Electric Vehicle Sales Dashboard (Power BI)
+# Electric Vehicle Sales Dashboard (Power BI)
 
 This project is an interactive Power BI dashboard that analyzes Electric Vehicle (EV) sales data across different geographies, time frames, and manufacturers. The dashboard enables users to gain meaningful insights into EV market trends, performance metrics, and sales growth over time.
 
