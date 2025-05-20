@@ -16,17 +16,17 @@ This project is an interactive Power BI dashboard that analyzes Electric Vehicle
 - **DAX**: For calculated measures and KPIs
 - **Data Modeling**: Relationships between multiple tables for accurate analytics
 
-## 📁 File Contents
+## File Contents
 
 - `electric vehicle sales.pbix`: Main Power BI file containing the full dashboard
 
-## 📌 Key Insights
+## Key Insights
 
 - EV sales have shown significant year-on-year growth, especially in key markets.
 - A few manufacturers dominate the EV space, but new entrants are gaining traction.
 - Seasonal trends and government incentives significantly affect sales volumes.
 
-## 📷 Screenshots
+## Screenshots
 
 *You can add exported screenshots of your dashboard here for visual preview.*
 
