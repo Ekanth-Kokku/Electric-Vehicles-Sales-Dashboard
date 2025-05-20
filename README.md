@@ -30,7 +30,7 @@ This project is an interactive Power BI dashboard that analyzes Electric Vehicle
 
 *You can add exported screenshots of your dashboard here for visual preview.*
 
-## 📈 Use Case
+## Use Case
 
 This project is ideal for:
 
