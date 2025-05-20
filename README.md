@@ -38,7 +38,7 @@ This project is ideal for:
 - Stakeholders looking to understand EV market trends
 - Anyone interested in sustainable transportation and clean energy adoption
 
-## 📬 Contact
+## Contact
 
 For questions or collaboration, feel free to open an issue or reach out via GitHub.
 
