@@ -35,7 +35,7 @@ This project is an interactive Power BI dashboard that analyzes Electric Vehicle
 This project is ideal for:
 
 - Data Analysts and BI Developers learning Power BI through real-world datasets
-- Stakeholders looking to understand EV market trends
+- Stakeholders looking to understand EV market trends.
 - Anyone interested in sustainable transportation and clean energy adoption.
 
 ## Contact
