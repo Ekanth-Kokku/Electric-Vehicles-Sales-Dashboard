@@ -4,7 +4,6 @@ This project is an interactive Power BI dashboard that analyzes Electric Vehicle
 
 ## Features
 
-
 - **Sales Trends Over Time**: Monthly and yearly analysis of EV sales growth.
 - **Top Manufacturers**: Ranking of leading EV manufacturers based on units sold.
 - **Geographic Analysis**: Regional breakdown of EV adoption and popularity.
